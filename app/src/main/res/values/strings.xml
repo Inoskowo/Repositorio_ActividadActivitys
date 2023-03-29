@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">unu</string>
+    <string name="constate1">Holaa</string>
+    <string name="ConstanteSuma">Suma</string>
+    <string name="ConstanteValor">Valor1</string>
+    <string name="ConstanteValor2">Valor2</string>
+    <string name="constatePotencia">Potencia</string>
+    <string name="ConstateFibonnaci">Fibbonaci</string>
+    <string name="constateMultiplicar">Multiplicar</string>
+    <string name="constateOperar">Operar</string>
+    <string name="Informacion">1.Potencia\n 2.Multiplicacion\n 3.Fibonnaci</string>
+</resources>
